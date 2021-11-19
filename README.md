@@ -10,7 +10,7 @@
 
 [2]: https://www.toyota.com/rav4hybrid/rav4hybrid-features/
 
-#  Here are some cool keyboards I've seen or owned
+#  Cool Keyboards
 
 - [Varmilo][3] This is the keyboard I'm currently using to type.
 
