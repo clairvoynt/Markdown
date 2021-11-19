@@ -1,6 +1,6 @@
 # Markdown
 
-#  Fun Animal Facts
+#  Fun Facts
 
 [This][1] is a page that has facts about **giraffes**
 
