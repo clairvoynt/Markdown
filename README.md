@@ -1,6 +1,7 @@
 # Markdown
-# Why *you* should use Markdown to write your next blog post
 
-[Markdown][1] is just so dang legible, it will make your *whole life* easier. **I promise.**
+[This][1] is a page that has facts about giraffes
 
-[1]: http://daringfireball.net/projects/markdown/basics
+[1]: https://www.dosomething.org/us/facts/11-facts-about-giraffes
+
+
