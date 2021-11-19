@@ -1,6 +1,6 @@
 # Markdown
 
-# H1 Fun Animal Facts
+#  Fun Animal Facts
 
 [This][1] is a page that has facts about **giraffes**
 
@@ -10,7 +10,7 @@
 
 [2]: https://www.toyota.com/rav4hybrid/rav4hybrid-features/
 
-# H1 Here are some cool keyboards I've seen or owned
+#  Here are some cool keyboards I've seen or owned
 
 - [Varmilo][3] This is the keyboard I'm currently using to type.
 
